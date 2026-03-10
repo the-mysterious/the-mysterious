@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**the-mysterious/the-mysterious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:00b4d8,100:ff6eb4&height=180&section=header&text=TON_USERNAME&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=dev%20%7C%20ta%20passion%20%7C%20autre%20chose&descAlignY=58&descSize=16&animation=fadeIn" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&icon_color=ff6eb4&text_color=ffffff&border_color=00b4d8" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=00b4d8" />
+
+</div>
+
+---
