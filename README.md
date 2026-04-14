@@ -16,13 +16,25 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## ✦ GitHub Stats
+
+# ✦ GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=the-mysterious&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&icon_color=ff6eb4&text_color=ffffff&border_color=00b4d8" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-mysterious&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=00b4d8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=the-mysterious&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&icon_color=ff6eb4&text_color=ffffff&border_color=00b4d8" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-mysterious&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=00b4d8" />
+
+  <br/>
+
+  <img height="160em" src="https://streak-stats.demolab.com?user=the-mysterious&theme=tokyonight&background=0d1117&ring=00b4d8&fire=ff6eb4&currStreakLabel=00b4d8&border=00b4d8" />
 
 </div>
 
----
+<br/>
+
+## 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-mysterious&bg_color=0d1117&color=00b4d8&line=ff6eb4&point=ffffff&area=true&hide_border=true)](https://github.com/the-mysterious)
+
+
